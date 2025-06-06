@@ -3,7 +3,7 @@
 This is a vulnerable ASP .net core application that implements all
 vulnerabilities listed in [OWASP's Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 as small web programs. For every web program, we provide an exploit
-int the [exploits subdirectory](./exploits)
+in the [exploits subdirectory](./exploits)
 that documents how the vulnerability can be actually exploited.
 
 # OWASP top 10 (2017)
