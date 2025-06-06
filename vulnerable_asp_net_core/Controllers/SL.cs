@@ -348,7 +348,7 @@ namespace vulnerable_asp_net_core.Controllers
 
             string Msg(string msg)
             {
-                return new DateTime() + ":" + msg + "</br>";
+                return DateTime.Now + ":" + msg + "</br>";
             }
 
             if (Request.Query.ContainsKey("showlogs"))
